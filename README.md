@@ -14,7 +14,7 @@ This Extension Allows Android Chrome Users To Play YouTube Videos/Music On The B
 </figure>
 
 # Download
-To Download This Extension Either Clone This Repository Or Click <a href="https://github.com/alkisqwe/Youtube-Background/releases">Here</a> And Select Youtube-Background.crx
+To Download This Extension Either Clone This Repository Or Click <a href="https://github.com/erinor/Youtube-Background/releases">Here</a> And Select Youtube-Background.crx
 
 # Installation
 
